@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BryanToDo</string>
+    <string name="button_text">Add New Item</string>
+</resources>
